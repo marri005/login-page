@@ -16,7 +16,7 @@ sudo rm -rf /var/www/html
 sleep 5
 
 echo "Clone Login App"
-sudo git clone  https://github.com/ravi2krishna/ecomm.git /var/www/html
+sudo git clone  https://github.com/marri005/login-page.git /var/www/html
 
 sleep 5
 
